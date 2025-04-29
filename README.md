@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhiroop Bhattacharyya (@TechMaverickHub)  
 
 🚀 **Backend Developer | Python & Django Specialist | Data Enthusiast**  
-📍 Delhi, India | 📧 abhiroop1998.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+📍 Delhi, India | 📧 abhiroop1998.dev@gmail.com | [Portfolio](https://www.vitaely.me/techmaverickhub) | [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 
 ### 🔥 **Summary**  
 Results-driven **Software Developer** with **3+ years** of experience in building scalable web applications, RESTful APIs, and data-driven solutions. Passionate about optimizing backend performance, migrating legacy systems, and leveraging cloud technologies. Strong expertise in **Python, Django, PostgreSQL, and AWS**.  
@@ -77,6 +77,7 @@ Results-driven **Software Developer** with **3+ years** of experience in buildin
 
 ---
 
-📫 **Let’s Connect!**  
+📫 **Let's Connect!**  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.vitaely.me/techmaverickhub)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abhiroop1998.dev@gmail.com)
