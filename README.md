@@ -1,83 +1,177 @@
-# 👋 Hi, I'm Abhiroop Bhattacharyya (@TechMaverickHub)  
+<h1 align="center">👋 Hi, I'm Abhiroop Bhattacharyya</h1>  
 
-🚀 **Backend Developer | Python & Django Specialist | Data Enthusiast**  
-📍 Delhi, India | 📧 abhiroop1998.dev@gmail.com | [Portfolio](https://www.vitaely.me/techmaverickhub) | [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+<p align="center">
+  🚀 <b>Backend Developer → Aspiring ML & Data Science Engineer</b><br>
+  📍 Delhi, India
+</p>
 
-### 🔥 **Summary**  
-Results-driven **Software Developer** with **3+ years** of experience in building scalable web applications, RESTful APIs, and data-driven solutions. Passionate about optimizing backend performance, migrating legacy systems, and leveraging cloud technologies. Strong expertise in **Python, Django, PostgreSQL, and AWS**.  
+<p align="center">
+  <a href="mailto:abhiroop1998.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.vitaely.me/techmaverickhub">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhiroop-bhattacharyya-b3761414b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+ <a href="https://x.com/TechMavAbhiroop">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TechMaverickHub&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
-## 🛠️ **Tech Stack**  
+## 🔥 About Me
+Backend Developer with **3+ years of experience** in **Python/Django & scalable APIs**, now diving into **Machine Learning & Data Science**.  
+🎓 **M.Tech in Data Science (IIIT Vadodara)** | Deepening expertise in **Generative AI** via the **100x Applied GenAI Cohort**  
 
-### **Languages & Frameworks**  
+💡 I love **bridging backend engineering with AI** to build **production-ready, intelligent applications**.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Backend**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-### **Databases & Cloud**  
+### **ML / Data Science**
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-008000?style=flat&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+### **Diffusion Tools**
+![SDXL](https://img.shields.io/badge/-SDXL-8A2BE2?style=flat&logo=magic&logoColor=white)
+![Flux](https://img.shields.io/badge/-Flux-FF1493?style=flat&logo=react&logoColor=white)
+![W.A.N](https://img.shields.io/badge/-WAN-00CED1?style=flat&logo=abstract&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/-ComfyUI-FFD700?style=flat&logo=blender&logoColor=black)
+![Tensor.Art](https://img.shields.io/badge/-Tensor.Art-FF4500?style=flat&logo=artstation&logoColor=white)
+
+### **Databases & Cloud**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=flat&logo=amazon-aws&logoColor=white)
 
-### **Tools & DevOps**  
+### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 ---
 
-## 🏆 **Projects**  
+## 🏆 Pinned Projects
 
-### 🔍 **Customer Segmentation Using K-Means Clustering**  
-- Analyzed retail data (Mall Customer Dataset) to identify customer groups.  
-- Preprocessed data with **Pandas**, visualized trends with **Seaborn/Matplotlib**.  
-- Implemented **K-Means clustering (Scikit-learn)** and optimized clusters using the Elbow Method.  
-🔗 [GitHub Repo](#)  
+### 🚀 **Credit Risk Predictor**
+![XGBoost](https://img.shields.io/badge/-XGBoost-008000?style=flat&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 🏦 **Bank Customer Churn Prediction (ML)**  
-- Achieved **86% accuracy** with **Random Forest** (vs. Logistic Regression: 80%).  
-- Identified key churn factors: **Credit Score, Age, Geography**.  
-🔗 [GitHub Repo](#)  
+Real-time loan risk predictions using **XGBoost + Streamlit**, reducing manual assessment time drastically.  
+🔗 [View Project](https://github.com/TechMaverickHub/credit-risk-predictor-streamlit)
 
 ---
 
-## 💼 **Professional Highlights**  
+### 🛒 **Mall Customer Segmentation**
+![KMeans](https://img.shields.io/badge/-KMeans-FF6F00?style=flat&logo=scikitlearn&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/-Seaborn-0099CC?style=flat&logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-### **DIVERGENIC TECH SOLUTIONS**  
-#### *Backend Developer (Xthreat for SIEM/SOAR)*  
-- **Migrated Node.js → Django REST**, improving API response by **30%**.  
-- **Integrated OpenSearch & Hive**, boosting data retrieval efficiency by **40%**.  
-- Built dynamic dashboards with **Django-driven visualizations**, reducing frontend load by **25%**.  
-
-#### *DataViz Tool Development*  
-- Designed a **multi-schema visualization tool** (MongoDB + PostgreSQL).  
-- Implemented **role-based access control** and **AWS S3 integration** for chart storage.  
-
-### **YATRA** (Intern)  
-- Developed a **Spring AOP logging system**, improving debugging efficiency by **30%**.  
+Clustered mall customers into **5 groups** to enable targeted marketing strategies.  
+🔗 [View Project](https://github.com/TechMaverickHub/Mall-Customer-Segmentation-using-K-Means-Clustering)
 
 ---
 
-## 📚 **Education**  
-- **M.Tech in Computer Science (Data Science)** – *IIIT Vadodara (CGPA: 8.31)*  
-- **B.Tech** – *VIT Chennai (CGPA: 8.21)*  
+### 🖌️ **100x Mid-Capstone — Personalized LoRA Perfume Creative Generation**
+![ComfyUI](https://img.shields.io/badge/-ComfyUI-FF6F00?style=flat&logo=python&logoColor=white) 
+![Flux](https://img.shields.io/badge/-Flux-0099CC?style=flat&logo=python&logoColor=white) 
+![LoRA](https://img.shields.io/badge/-LoRA-150458?style=flat&logo=python&logoColor=white)
+
+Generated personalized perfume creatives using **LoRA + Flux diffusion models**, merging AI-generated headshots with lifelike product ads.  
+🔗 [View Project](https://github.com/TechMaverickHub/100x-midcapstone-personalized-lora-perfume)
 
 ---
 
-## 📊 **GitHub Stats**  
+## 💼 Professional Experience
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TechMaverickHub&theme=dark)](https://git.io/streak-stats)  
+### **Divergenic Tech Solutions** – *Back-End Developer*  
+📍 Pune, Maharashtra | 🗓️ Jul 2023 – Present  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechMaverickHub&layout=compact&theme=radical)  
+**Xthreat (SIEM & SOAR Platform)**  
+- Migrated system from **Node.js → Django REST**, boosting API response time by **30%** and handling **25% more concurrent traffic**.  
+- Built **multi-level authorization** and enhanced security, reducing unauthorized access by **40%**.  
+- Integrated **OpenSearch + Hive**, increasing data retrieval speed by **40%**.  
+- Developed **real-time dashboards & visualizations**, cutting decision-making time by **35%**.  
+- Automated workflows with **Playbooks**, saving ~**10 hours/week** of analyst effort.  
+
+**DataViz Platform**  
+- Built **hybrid visualization system** (PostgreSQL + MongoDB) for **100K+ records**.  
+- Dynamic schema ingestion for **CSV/Excel** files, reducing onboarding time by **30%**.  
+- Multi-chart support (Pie, Donut, Line, Bar), boosting adoption by **25%**.  
+- Enabled **role-based access & chart sharing**, improving efficiency by **50%**.  
+- Integrated **Seaborn → AWS S3**, reducing page load time by **15%**.  
+
+**Service Booking Platform** & **E-commerce Platform**  
+- Engineered **Django-based backend** with secure **Razorpay transactions**, OTP verification, and admin workforce assignment.  
+- Reduced **fraud, errors, and delivery delays** by **30–40%** across platforms.  
+
+**Future Scope:** Prototyping **GPT-powered automated chart generation** to enhance dashboard intelligence.  
 
 ---
 
-📫 **Let's Connect!**  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.vitaely.me/techmaverickhub)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abhiroop1998.dev@gmail.com)
+### **Yatra** – *Back-End Developer Intern*  
+📍 Gurgaon, India | 🗓️ Jun 2022 – Jun 2023  
+
+- Centralized logging system with **Spring AOP**, capturing **100% service-level events**.  
+- Improved **audit trails & debugging efficiency by 30%**.  
+- Enhanced **real-time monitoring**, cutting production issues by **15%**.  
+
+---
+
+## 🎓 Education
+- **M.Tech (Data Science)** – IIIT Vadodara *(CGPA: 8.31)*  
+- **B.Tech (CSE)** – VIT Chennai *(CGPA: 8.21)*  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TechMaverickHub&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TechMaverickHub&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechMaverickHub&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect  
+
+<p align="center">
+  <a href="https://www.vitaely.me/techmaverickhub">
+    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhiroop-bhattacharyya-b3761414b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/TechMavAbhiroop">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:abhiroop1998.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
