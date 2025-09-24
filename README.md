@@ -9,7 +9,7 @@
   <a href="mailto:abhiroop1998.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.vitaely.me/techmaverickhub](https://abhiroop-portfolio.netlify.app/)">
+  <a href="https://abhiroop-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abhiroop-bhattacharyya-b3761414b/">
@@ -17,6 +17,9 @@
   </a>
  <a href="https://x.com/TechMavAbhiroop">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/10T2GpGiS_BtD9Jb7a6RswGaeWsgfqO6t/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
 
@@ -162,8 +165,8 @@ Generated personalized perfume creatives using **LoRA + Flux diffusion models**,
 ## 🤝 Let’s Connect  
 
 <p align="center">
-  <a href="https://www.vitaely.me/techmaverickhub">
-    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://abhiroop-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abhiroop-bhattacharyya-b3761414b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
