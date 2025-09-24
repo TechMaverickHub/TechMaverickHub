@@ -174,4 +174,7 @@ Generated personalized perfume creatives using **LoRA + Flux diffusion models**,
   <a href="mailto:abhiroop1998.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://drive.google.com/file/d/10T2GpGiS_BtD9Jb7a6RswGaeWsgfqO6t/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
 </p>
