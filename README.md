@@ -9,7 +9,7 @@
   <a href="mailto:abhiroop1998.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.vitaely.me/techmaverickhub">
+  <a href="[https://www.vitaely.me/techmaverickhub](https://abhiroop-portfolio.netlify.app/)">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abhiroop-bhattacharyya-b3761414b/">
