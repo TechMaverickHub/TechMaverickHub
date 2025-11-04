@@ -18,7 +18,7 @@
  <a href="https://x.com/TechMavAbhiroop">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/10T2GpGiS_BtD9Jb7a6RswGaeWsgfqO6t/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1Glq4EwvC9sEDNVss10eOpL4G2lcIw9XZ/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
@@ -185,7 +185,7 @@ Generated personalized perfume creatives using **LoRA + Flux diffusion models**,
   <a href="mailto:abhiroop1998.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/10T2GpGiS_BtD9Jb7a6RswGaeWsgfqO6t/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1Glq4EwvC9sEDNVss10eOpL4G2lcIw9XZ/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
