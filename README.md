@@ -103,7 +103,8 @@ Curates personalized content, generates styled newsletters, and automates schedu
 Transforms résumés, LinkedIn profiles, or short Q&As into a **hosted portfolio, ATS résumé, tailored cover letters, and AI-powered job prep tools.**  
 Includes **AI interviewer**, **portfolio optimizer**, and **career coaching** powered by LLMs and GenAI workflows.  
 
-🔗 [View Project]([https://github.com/TechMaverickHub/portfolioai](https://github.com/TechMaverickHub/100x-Hackathon-Backend))
+🔗 [View Project](https://github.com/TechMaverickHub/100x-Hackathon-Backend)
+
 ---
 
 ### 🖌️ **100x Mid-Capstone — Personalized LoRA Perfume Creative Generation**
@@ -113,6 +114,7 @@ Includes **AI interviewer**, **portfolio optimizer**, and **career coaching** po
 
 Generated personalized perfume creatives using **LoRA + Flux diffusion models**, merging AI-generated headshots with lifelike product ads.  
 🔗 [View Project](https://github.com/TechMaverickHub/100x-midcapstone-personalized-lora-perfume)
+
 
 ---
 
