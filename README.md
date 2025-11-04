@@ -80,24 +80,30 @@ Backend Developer with **3+ years of experience** in **Python/Django & scalable 
 
 ## 🏆 Pinned Projects
 
-### 🚀 **Credit Risk Predictor**
-![XGBoost](https://img.shields.io/badge/-XGBoost-008000?style=flat&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+### 🧠 **Creator Pulse — AI-Powered Newsletter System**
+![Django REST](https://img.shields.io/badge/-Django%20REST-092E20?style=flat&logo=django&logoColor=white) 
+![APScheduler](https://img.shields.io/badge/-APScheduler-FF6C37?style=flat&logo=python&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
+![Resend API](https://img.shields.io/badge/-Resend%20API-8A2BE2?style=flat&logo=mailgun&logoColor=white)
 
-Real-time loan risk predictions using **XGBoost + Streamlit**, reducing manual assessment time drastically.  
-🔗 [View Project](https://github.com/TechMaverickHub/credit-risk-predictor-streamlit)
+AI-driven newsletter automation platform built using **Django REST Framework**.  
+Curates personalized content, generates styled newsletters, and automates scheduling — empowering creators to manage topics, tones, and templates with precision.  
+
+🔗 [View Backend Repository](https://github.com/TechMaverickHub/100x-LLM-Assignment-CreatorPulse)  
+🔗 [View Frontend Repository](https://github.com/TechMaverickHub/100x-LLM-Assignment-CreatorPulse-frontend)
 
 ---
 
-### 🛒 **Mall Customer Segmentation**
-![KMeans](https://img.shields.io/badge/-KMeans-FF6F00?style=flat&logo=scikitlearn&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/-Seaborn-0099CC?style=flat&logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+### 💼 **PortfolioAI — Instant Personal Brand & Job-Readiness Suite**
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![LangChain](https://img.shields.io/badge/-LangChain-0E76A8?style=flat&logo=chainlink&logoColor=white)
 
-Clustered mall customers into **5 groups** to enable targeted marketing strategies.  
-🔗 [View Project](https://github.com/TechMaverickHub/Mall-Customer-Segmentation-using-K-Means-Clustering)
+Transforms résumés, LinkedIn profiles, or short Q&As into a **hosted portfolio, ATS résumé, tailored cover letters, and AI-powered job prep tools.**  
+Includes **AI interviewer**, **portfolio optimizer**, and **career coaching** powered by LLMs and GenAI workflows.  
 
+🔗 [View Project]([https://github.com/TechMaverickHub/portfolioai](https://github.com/TechMaverickHub/100x-Hackathon-Backend))
 ---
 
 ### 🖌️ **100x Mid-Capstone — Personalized LoRA Perfume Creative Generation**
